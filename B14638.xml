@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the case of Lawrence Lownes Esquire concerning the mannors of Hutton, Wandisley, and Angram, with advowson of the Church of Hutton, in the county of the city of Yorke, as it resteth upon the proofes.</title>
+            <author>Lownes, Lawrence.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14638</idno>
+            <idno type="STC">STC 16876</idno>
+            <idno type="STC">ESTC S100443</idno>
+            <idno type="EEBO-CITATION">99836283</idno>
+            <idno type="PROQUEST">99836283</idno>
+            <idno type="VID">176339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B14638)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176339)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1475-1640 ; 1316:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the case of Lawrence Lownes Esquire concerning the mannors of Hutton, Wandisley, and Angram, with advowson of the Church of Hutton, in the county of the city of Yorke, as it resteth upon the proofes.</title>
+                  <author>Lownes, Lawrence.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1628?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Identified as STC 16876a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land titles --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:176339:1" rendition="simple:additions"/>
+            <head>An Abſtract of the caſe of Lawrence Lownes Eſquire, Concerning the Mannors of <hi>Hutton, Wandiſley,</hi> and <hi>Angram,</hi> with advowſon of the Church of <hi>Hutton,</hi> in the County of the City of <hi>Yorke,</hi> as it reſteth vpon the proofes.</head>
+            <p>
+               <hi>Peter Bland</hi> of <hi>London</hi> Eſquire, was ſeized of, and in the Mannors and advowſon afore-ſayd, in his demeaſne as of Fee, and being ſo thereof ſeized according to a deliberate agreement betwixt him, and the ſayd <hi>Lawrence Lownes</hi> vpon accompts made betwixt them, and due conſideration of his the ſayd <hi>Peters</hi> eſtate, did giue and deliuer vnto the ſayd <hi>Lawrence Lownes</hi> bonds, and ſpecialties, amounting to 1150 l'. and by his deede indented, bearing date the 12. of <hi>Nouem.</hi> 22. <hi>Iacob. Reg.</hi> ſealed and deliuered before many ſufficient witneſſes without exception, and acknowledged before Sr. <hi>Iames Huſse</hi> one of the Maiſters of the Chancery, and there duly inrolled, did bargaine, and ſell, the ſayd Mannors and premiſes, vnto the ſaid <hi>Lawrence Lownes,</hi> and vnto <hi>Iames Milles,</hi> and <hi>Ioliffe Lownes,</hi> and their heires for euer; yet in truſt onely for the ſaid <hi>Lawrence Lownes</hi> and his heires.</p>
+            <p>And afterwards, the ſayd <hi>Peter Bland</hi> 24. <hi>Nouem.</hi> 22. <hi>Iacob.</hi> by his other deede indented, ſealed, and deliuered before many likewitneſſes, and like<g ref="char:EOLhyphen"/>wiſe acknowledged before the ſayd Maſter of the Chancery, and there duly inrolled, did further bargaine, and ſell, aſſure, releaſe, and confirme the ſayd Mannors and premiſſes, to the ſayd <hi>Lawrence Lownes, Iames Milles,</hi> and <hi>Iolliffe Lownes,</hi> and their heires, in truſt, as afore-ſayd, with a couenant for aſſurances of the premiſſes.</p>
+            <p>And afterwards, for further aſſurance according to his couenant, 27. <hi>Iunij,</hi> 1. <hi>Caroli,</hi> the ſayd <hi>Peter Bland</hi> acknowledged a fine of the ſayd Mannors and premiſſes before a Serieant at Law, in the preſence of many perſons of good worth, quality, and credit, which by his Indenture ſealed and deliue<g ref="char:EOLhyphen"/>red before many like witneſſes, dated 26. <hi>Iunij,</hi> 1. <hi>Caroli,</hi> was declared to be to the former vſes.</p>
+            <div type="part">
+               <head>The reaſons and conſiderations inducing the ſayd <hi>Peter Bland,</hi> to make the ſayd aſsurances of the ſaid Mannors and premiſses, and diſpoſall of ſpecialties for the ſaid 1150. l'. to the ſaid Lawrence Lownes.</head>
+               <p>
+                  <list>
+                     <head>1. Valuable Conſiderations.</head>
+                     <item>1. 340 l'. in hand payd by the ſayd <hi>Lawrence Lownes,</hi> to the ſayd <hi>Peter Bland.</hi>
+                     </item>
+                     <item>2. 310 l'. <hi>per annum,</hi> to be payd vnto the ſayd <hi>Bland</hi> during his life, by the ſayd <hi>Lawrence Lownes,</hi> the ſayd land being worth, and let for 216 l'. <hi>per annum,</hi> and no more.</item>
+                     <item>3. 50 l'. to be payd after the ſayd <hi>Peter Blands</hi> death yearely, by the ſayd <hi>Lawrence Lownes,</hi> to M<hi rend="sup">rs</hi>. <hi>Ioane Langhorne,</hi> one of the ſayd <hi>Blands</hi> Daughters during her life, ſhe being a healthy woman, not yet exceeding forty yeares of age.</item>
+                     <item>4. The ſayd <hi>Lawrence Lownes,</hi> is by appointment of the ſayd <hi>Peter Bland</hi> to pay at ſeuerall dayes after the ſayd <hi>Blands</hi> death 2509 l' 3 s'. 4d'. to ſeuerall perſons, being children, grand-children, and others neere of kin, vnto the ſayd <hi>Peter Bland.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Note that</hi>
+                  <list>
+                     <item>1. For theſe Executory payments, the ſayd <hi>Lawrence Lownes</hi> gaue ſecurity by Indenture of couenants, and bonds of 4000 l'.</item>
+                     <item>2. The Lands not worth aboue 3000 l'. to be ſold.</item>
+                  </list>
+               </p>
+               <p>
+                  <list>
+                     <head>Conſidera<g ref="char:EOLhyphen"/>tions of loue, &amp;c.</head>
+                     <item>1. For that the ſayd <hi>Lawrence Lownes</hi> had formerly at the inſtance of the ſaid <hi>Peter Bland,</hi> married his the ſaid <hi>Blands</hi> neece, whom the ſayd <hi>Bland</hi> had brought vp from her infancy, and was alſo eſteemed by him as his daughter.</item>
+                     <item>2. For that the ſayd <hi>Lawrence Lownes</hi> had beene for a long time a carefull and faithfull dealer, and preſeruer of and for the ſaid <hi>Blands</hi> eſtate, which was very trouble-ſome and perplexed.</item>
+                     <item>3. That the ſayd <hi>Peter Bland</hi> loued the ſayd <hi>Lawrence Lownes</hi> very tenderly, had an eſpeciall opinion of him grounded vppon ſuffi<g ref="char:EOLhyphen"/>cient trials, and deſired therefore ſome way to ingage him the more, not for himſelfe onely during his life, but afterwards with the care and managing of the eſtates of his grand-children.</item>
+                  </list>
+               </p>
+               <p>It is fully and directly prooued by many Witneſſes of credit without all manner of exception, that at and during the making and perfecting of thoſe conueyances and aſſurances, (being almoſt eight moneths in doing) as alſo before and after the ſayd <hi>Peter Bland</hi> was of an able diſpo<g ref="char:EOLhyphen"/>ſing memory, and vnderſtanding, and that at ſundry times, and before perſons of great credit, he voluntarily expreſſed his hearty loue to the ſayd <hi>Lawrence Lownes,</hi> with wiſhes that the before bargained premiſſes had beene more worth, and that he the ſayd <hi>Peter Bland</hi> had beene of better abilitie, to doe him, the ſayd <hi>Lawrence Lownes</hi> more good in requitall of his great loue and paines.</p>
+               <p>This bargaine was ratified and allowed of by the ſayd <hi>Peter Bland,</hi> by ſubſequent Acts during all his life after.
+<list>
+                     <item>1. In his the ſayd <hi>Peter Bland</hi> receiuing the ſayd 310 l'. <hi>per annum</hi> during his life, being about two yeares after according to the ſaid bargaine by quarterly payments, as appeareth by eight ſeuerall acquittances, vnder his hand and ſeale proued.</item>
+                     <item>2 Beſides the before mentioned Acts and conueyances) the ſayd <hi>Peter Bland</hi> by his laſt Will and Teſtament in Writing, made and Publiſhed the 27. of <hi>Iune,</hi> 1. <hi>Reg. Caroli,</hi> made a principall relation vnto the ſayd bargaine, and made thereof the ſayd <hi>Lawrence Lownes,</hi> and his brother <hi>Iohn Bland</hi> his Executors, and liued a yeare and a halfe after, ſtill continuing his the ſayd <hi>Lawrence Lownes,</hi> Executorſhip, in ſigne alſo of his conſtant loue and opinion of him, and approbation of the ſayd bargaine.</item>
+                  </list>
+               </p>
+               <p>The premiſses con<g ref="char:EOLhyphen"/>ſidered the ſaid <hi>Lawrence Lownes</hi> hopes that it appeares that
+<list>
+                     <item>1. This was no great benefit vnto the ſayd <hi>Lawrence Lownes.</hi>
+                     </item>
+                     <item>2. No preiudice but aduantage to the ſayd <hi>Peter Bland</hi> in his owne particular.</item>
+                     <item>3. The ſayd <hi>Peter Bland</hi> might the better doe thus, hauing no Sonnes.</item>
+                     <item>4. Little or no preiudice came hereby to his Children, grand-children, and other kindred, among whom beſides his former chargeable preferments of his Daughters in marriage; and the ſayd 50 l'. <hi>per annum</hi> to his Daughter <hi>Langhorne,</hi> he did by and vpon the ſayd bargayne diſpoſe the ſayd whole 2509 l', 3 s'. 4 d'. beſides the reſt of his eſtate, to and among them alſo being about 6000 l'. albeit amongſt them there were not wanting ſome iuſt cauſes of <hi>Peter Blands</hi> diſpleaſure towards them.</item>
+                  </list>
+               </p>
+               <p>The ſole obiections agaynſt the ſayd bargayne and aſſurances are, that all the benefits thereby redounding vnto the ſayd <hi>Lawrence Lownes</hi> was corruptly, by circumuention, and without iuſt conſideration drawne by the ſayd <hi>Lawrence Lownes,</hi> from the ſayd <hi>Peter Bland</hi> in his weake<g ref="char:EOLhyphen"/>neſſe; and therefore in the Court of Chancery, decreed agaynſt him the ſayd <hi>Lawrence Lownes</hi> onely, albeit the ſayd Court would not declare, that the ſayd <hi>Peter Bland</hi> was at the making of the aſſurances, or of the ſayd Will <hi>De non ſane memory,</hi> or that he was not of a diſ<g ref="char:EOLhyphen"/>poſing memory, nor would make voyd the ſayd Conueyances, or Will, or diſaduantage any whom they concerned, but the ſayd <hi>Law<g ref="char:EOLhyphen"/>rence Lownes</hi> onely, as by the decree of the ſayd Court made <hi>Septimo die Februarij Anno Regni Regis Caroli, tertio: Inter Arnoldum Harbert mil. &amp; al. querend,</hi> Lawrencium Lownes <hi>&amp; al. defend.</hi> whereto for more truth and certayne relation bee had, it may appeare.<add>The poſt ſcript is to come in at this place.</add>
+               </p>
+               <p>To this as concerning all matter of ſuppoſed corrupt dealing, circumuention, or want of iuſt conſideration, being matters which trench vpon the ſayd <hi>Lownes</hi> his reputation aſwell as profit, hee with all due reuerence Humbly offers the contrary; and that as hee hopeth vpon moſt iuſt grounds and reaſons, humbly deſiring the proofes may be conſidered, and the cauſe examined.</p>
+               <p>
+                  <add>Lawrence Lownes hath been in priſon in the Fleet cloſe priſoner 3 yeares for nonꝑformanc<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>of the ſayd decree, and without any good ground sentenced<g ref="char:punc">▪</g> fyned v s in the ſtarchamber for the obteining of the ſayd Conveiances from Peeter Bland &amp; not freed of the ſayd impriſonment vntill he his wife and two Children being Infants by fine and recouery made aſsuraunce of the ſayd Mannor and lands vnto vs according to the compulſion of y<hi rend="sup">e</hi> ſayd decree in Chauncerye</add>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
